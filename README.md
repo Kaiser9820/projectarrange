@@ -4,6 +4,9 @@ A clean, fast, and smart CLI file organizer for messy folders.
 
 ProjectArrange automatically sorts files into logical directories so your workspace stays tidy and predictable. It is designed for day-to-day desktop use, with practical defaults for developers, creators, and power users.
 
+### To get it to run anywhere, run this:
+uv tool install git+https://github.com/Kaiser9820/projectarrange.git
+
 ## Features
 
 - Smart screenshot detection (`Capture`, `Screenshot`, `IMG_`, `Snap`, etc.) with priority over generic image rules.
